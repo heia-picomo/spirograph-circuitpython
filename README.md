@@ -4,7 +4,7 @@ Ce programme dessine des figures géométriques sur l'écran du PicoMo. Il
 simule un spirograph en dessinant des cercles de différentes tailles et
 couleurs.
 
-## Utiiisation
+## Utilisation
 
 - [Facultatif] Si nécessaire, vous pouvez effacer complètement le PicoMo
   à l'aide du fichier `flash_nuke.uf2` (voir
