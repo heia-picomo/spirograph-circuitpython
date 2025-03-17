@@ -6,7 +6,7 @@ couleurs.
 
 ## Installation de Circuit Python
 
-1. Connectez votre PiCoMo en pressant le boutonf S7 (en haut à droite).
+1. Connectez votre PiCoMo tout en gardant votre doigt pressé sur le bouton S7 (en haut à droite).
    
    ![](assets/picomo_board_fr.jpg)
 2. Un disque "RPI-RP2" devrait apparaître sur votre ordinateur.
