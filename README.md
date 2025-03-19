@@ -48,3 +48,31 @@ couleurs.
    français).
 
    ![](assets/screen8.png)
+
+## Mofiication du programme
+
+1. Ouvrez le programme _VS Code_. en cliquant tout d'abord sur l'icône _Windows_ en bas à gauche de votre écran, puis sur l'icône _VS Code_.
+   
+   ![](assets/screen10.png)
+
+2. Dès que le programme est ouvert, cliquez sur _File_ puis sur _Open Folder..._
+
+   ![](assets/screen11.png)
+
+3. Choisissez le disque _CIRCUITPY (E:)_ puis cliquez sur _Select Folder_
+
+   ![](assets/screen12.png)
+
+4. Le système vous demande si vous faites confiance à l'auteur de ce programme. Cliquez sur _Yes, I trust the authors_
+
+   ![](assets/screen13.png)
+
+5. Vous pouvez maintenant modifier le programme en cliquant sur le fichier _code.py_. Si le système vous demande d'installer une extension, cliquez simplement sur la croix pour fermer la fenêtre.
+
+   ![](assets/screen14.png)
+
+6. Sauvez le fichier avec vos modifications en cliquant sur _File_ puis sur _Save_.
+
+   ![](assets/screen15.png)
+
+7. Votre PiCoMo redémarre automatiquement avec le nouveau programme.
